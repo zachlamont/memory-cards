@@ -40,3 +40,24 @@
 .read-the-docs {
   color: #888;
 }
+
+.red {
+  color: red;
+}
+.black {
+  color: black;
+}
+.card {
+  background-color: white;
+  border-radius: 10px;
+
+  display: inline-block;
+  width: 80px;
+  height: 120px;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid black;
+  font-size: 24px;
+  text-align: center;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
+}
